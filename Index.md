@@ -1,13 +1,57 @@
-Introduction
+# Introduction
 
-HPC Container Technologies
+# HPC Container Technologies
 
-System Design
+# Secure System Design
 
-Security
+## Secure System Types
 
-Case Studies
+### Full External Access
 
-Do's & Don'ts
+### Limited External Access
 
-Recommendations
+### No External Access, Air-gap Systems
+
+## Build Systems and Configurations
+
+# WORKFLOW DESIGN FOR SECURE SYSTEMS
+
+## Workflow Types
+
+### Application Monitoring and Tuning
+
+### Distributed AI Workflows
+
+### Quantum Computing
+
+### Bioinformatics
+
+### Secure Workflows & Confidential Computing
+
+# Security
+
+## Flowcharts for a Secure HPC Container System
+
+### Loading Data
+
+### Build Container Workflows
+
+### Deploy on System
+
+# Case Studies
+
+# Do's & Don'ts
+
+## System Administrators & Data Center Staff
+
+### Do's
+
+### Don'ts
+
+## End Users
+
+### Do's
+
+### Don'ts
+
+# Recommendations
