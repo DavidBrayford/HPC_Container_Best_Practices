@@ -13,6 +13,6 @@ Providing container recipes and container images in a verified container registr
 
 # Don’ts
 It is extremely important that the data center doesn’t provide a service their staff don’t understand. As it will lead to unexpected issues to frequently occur, which are difficult to predict, avoid and resolve easily. Also, it will result in the data center support staff spending a lot more time and
-effort supporting users than expected. 
-In addition, the end users will complain about the poor quality of service, which might result in the user moving their work to another data center.
+effort supporting users than expected.  In addition, the end users will complain about the poor quality of service, which might result in the user moving their work to another data center.
+
 Finally, don’t reinvent the wheel. Often you will find that someone else has already encountered the problems you are facing and have come up with solutions. The mechanisms they have developed might not be ideal for your situation, but it is likely very close and might only require a few modifications to make it work for your needs. Or at the very least provide some insights on how to approach and tackle the issues you are facing. It’s good to talk with folks who are working on containers at other data centers to share experiences and come up with a common approach to deploying containers on clusters.
