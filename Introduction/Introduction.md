@@ -1,1 +1,5 @@
+# Introduction
 
+The use of high performance computing (HPC) is becoming increasingly important in fields such as AI, quantum computing, bioinformatics and medical that have not traditionally employed HPC resources to analyze the massive amounts of data generated today. The use of containers to encapsulate their workflows is often commonly employed in these fields to deploy and execute complex workloads. Also, the endusers want to employ methods that they are familiar with when transitioning to a HPC system. In addition, communities that have used HPC resources for decades are starting to containerize their workflows in order to incorporate AI and other tools into their workflows to accelerate their research. Examples of such include drug design, finance and particle physics amongst others.
+
+However, the deployment of containerized software and workflows on HPC systems are not necessarily easy and straightforward and can require a lot of time and effort by the HPC center and scientists to build and deploy containerized workflows while maintaining the operational and security policies of the data center and the various HPC systems supported.
