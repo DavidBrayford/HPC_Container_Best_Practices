@@ -1,1 +1,1 @@
-
+In this section we introduce the Do’s and Don’ts of deploying containerized workflows on secure HPC systems. We describe some of the issues that end-users and data center staff might encounter when deploying containers and how to resolve or avoid such issues.
